@@ -1,0 +1,8 @@
+- tab: "테스트"
+  testcases:
+    - input: "6 2 10 3\n"
+      output: "1\n"
+    - input: "0 0 5 5\n"
+      output: "0\n"
+    - input: "2 3 7 10\n"
+      output: "2\n"
