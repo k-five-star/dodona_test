@@ -1,0 +1,11 @@
+{
+  "description": {
+    "names": { "en": "Rectangle Border Distance", "nl": "Afstand tot de rand van een rechthoek" }
+  },
+  "evaluation": {
+    "handler": "tested",
+    "test_suite": "suite.yaml"
+  },
+  "programming_language": "python",
+  "access": "public"
+}
