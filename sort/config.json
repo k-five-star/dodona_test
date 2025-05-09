@@ -1,11 +1,14 @@
 {
   "description": {
-    "names": { "en": "Rectangle Border Distance", "nl": "Afstand tot de rand van een rechthoek" }
+    "names": {
+      "ko": "승훈이는 어디로 갈까?"
+    }
   },
   "evaluation": {
     "handler": "tested",
     "test_suite": "suite.yaml"
   },
-  "programming_language": "python",
+  "programming_language": "java",
   "access": "public"
 }
+
